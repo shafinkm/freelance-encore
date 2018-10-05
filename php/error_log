@@ -1,0 +1,2 @@
+[28-Jul-2016 20:43:18 UTC] PHP Fatal error:  Call to undefined function sendEmail() in /home/fidatotech/public_html/client/enercore/php/sendemail.php on line 22
+[28-Jul-2016 20:43:57 UTC] PHP Fatal error:  Call to undefined function sendEmail() in /home/fidatotech/public_html/client/enercore/php/sendemail.php on line 22
